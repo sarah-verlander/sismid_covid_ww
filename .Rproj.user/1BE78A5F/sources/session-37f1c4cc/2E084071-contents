@@ -1,0 +1,8 @@
+.Renviron
+*.pdf
+.DS_store
+data/*
+.Rhistory
+drafts/*
+literature/*
+*.png

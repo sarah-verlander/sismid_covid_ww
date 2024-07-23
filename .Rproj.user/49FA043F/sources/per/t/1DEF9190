@@ -1,0 +1,26 @@
+{
+    "id": "1DEF9190",
+    "path": "~/Downloads/20240722_sismid_repro/source/04_data_visualization.R",
+    "project_path": "source/04_data_visualization.R",
+    "type": "r_source",
+    "hash": "2981392694",
+    "contents": "",
+    "dirty": false,
+    "created": 1721332109502.0,
+    "source_on_save": false,
+    "relative_order": 5,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "24,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1721394211,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1721394211,
+    "read_only": false,
+    "read_only_alternatives": []
+}
